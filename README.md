@@ -54,7 +54,8 @@ To create an interactive dashboard that:
 - **Opportunity Identified:** Dynamic pricing (weekday vs. weekend) can improve profitability  
 - **Operational Insight:** Data highlights need for adaptive strategies and better channel mix
 
-
 ---
+ ### Snapshot of dashboard
 
-https://github.com/Janhavi-07/Oyo-Data-Analytics/blob/main/Oyo_dashboard.PNG
+[
+](https://github.com/Janhavi-07/Oyo-Data-Analytics/blob/main/Oyo_dashboard.PNG)
