@@ -56,6 +56,4 @@ To create an interactive dashboard that:
 
 ---
  ### Snapshot of dashboard
-
-[
-](https://github.com/Janhavi-07/Oyo-Data-Analytics/blob/main/Oyo_dashboard.PNG)
+![Alt text](https://github.com/Janhavi-07/Oyo-Data-Analytics/blob/main/Oyo_dashboard.PNG)
