@@ -52,7 +52,9 @@ To create an interactive dashboard that:
 ### 💡 Business Impact & Insights  
 - **Fixed Pricing Issue:** ADR remained constant, limiting revenue potential  
 - **Opportunity Identified:** Dynamic pricing (weekday vs. weekend) can improve profitability  
-- **Operational Insight:** Data highlights need for adaptive strategies and better channel mix  
+- **Operational Insight:** Data highlights need for adaptive strategies and better channel mix
+
 
 ---
 
+https://github.com/Janhavi-07/Oyo-Data-Analytics/blob/main/Oyo_dashboard.PNG
