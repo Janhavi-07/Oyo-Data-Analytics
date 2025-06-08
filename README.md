@@ -1,9 +1,9 @@
-
-#Hospitality Performance Dashboard
+# 📌 Project Title  
+**Hospitality Performance Dashboard**
 
 ---
 
-  
+## 📝 Short Description / Purpose  
 This Power BI dashboard project analyzes and visualizes hotel performance data to uncover actionable insights. It focuses on six key hospitality metrics—RevPAR, ADR, Occupancy %, DSRN, Realization, and Revenue—to support smarter revenue management and strategic decision-making. The goal is to empower hospitality managers with data-driven tools to boost operational efficiency and profitability.
 
 ---
@@ -54,4 +54,5 @@ To create an interactive dashboard that:
 - **Opportunity Identified:** Dynamic pricing (weekday vs. weekend) can improve profitability  
 - **Operational Insight:** Data highlights need for adaptive strategies and better channel mix  
 
+---
 
