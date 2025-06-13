@@ -1,5 +1,5 @@
-# 📌 Project Title  
-**Hospitality Performance Dashboard**
+# 📌 Hospitality Performance Dashboard
+
 
 ---
 
